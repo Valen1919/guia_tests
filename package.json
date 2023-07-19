@@ -1,0 +1,16 @@
+{
+  "name": "guia_suma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "suma.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "^29.6.1",
+    "regenerator-runtime": "^0.13.11"
+  }
+}
